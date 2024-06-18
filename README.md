@@ -6,7 +6,7 @@ Welcome to my GitHub profile!
 - 👀 I’m interested in learning new things and expanding my knowledge in various fields.
 - 🌱 I’m currently learning to become a full stack web developer.
 - 💞️ I’m looking to collaborate on web development projects, open source contributions, and innovative tech solutions.
-- 📫 How to reach me: You can reach me via [email@example.com](mailto:anshul331301@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anshulpoonia).
+- 📫 How to reach me: You can reach me via [email@example.com](mailto:anshul331301@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/anshul-poonia-1a5144260/).
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love exploring new programming languages and frameworks in my free time.
 
